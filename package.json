@@ -1,0 +1,14 @@
+{
+  "name": "react-mmc",
+  "version": "1.0.0",
+  "description": "react后台管理系统",
+  "main": "app/client",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yqzyanp",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
