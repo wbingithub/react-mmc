@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+react-mmc.iml
+node_modules/
+.DS_Store
+package-lock.json
